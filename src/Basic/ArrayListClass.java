@@ -10,6 +10,7 @@ public class ArrayListClass {
         grades.add(5);
         grades.add(10);
         grades.add(11);
+        grades.add(15);
 
         System.out.println(grades.get(0));
         System.out.println(grades.contains(11));
